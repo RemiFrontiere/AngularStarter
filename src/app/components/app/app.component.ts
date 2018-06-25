@@ -21,7 +21,7 @@ import {
   selectorSettings,
   SettingsState,
   ActionSettingsChangeAnimationsPageDisabled
-} from './settings';
+} from '../../settings';
 
 @Component({
   selector: 'anms-root',
